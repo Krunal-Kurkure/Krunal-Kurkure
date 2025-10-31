@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **adkurkure@gmail.com**
 
-- 📄 Know about my experiences [https://krunal-kurkure.github.io/New-Portfolio/](https://krunal-kurkure.github.io/New-Portfolio/)
+- 📄 Know about my experiences [https://krunal-kurkure.github.io/New-Portfolio/](https://krunal-kurkure.github.io/New-Portfolio/](https://krunal-kurkure.github.io/krunalkurkure-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
