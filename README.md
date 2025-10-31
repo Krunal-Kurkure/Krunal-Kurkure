@@ -15,8 +15,8 @@
 
 - 🤝 I’m looking for help with **Learning React Native with Backend**
 
-- 👨‍💻 All of my projects are available at [https://krunal-kurkure.github.io/New-Portfolio/](https://krunal-kurkure.github.io/New-Portfolio/)
-
+- 👨‍💻 All of my projects are available at [https://krunal-kurkure.github.io/krunalkurkure-portfolio/]
+- 
 - 💬 Ask me about **Frontend Deveploment,Full-stack Development, React Native App**
 
 - 📫 How to reach me **adkurkure@gmail.com**
